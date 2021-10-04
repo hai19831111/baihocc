@@ -6,6 +6,8 @@
 #define WIDTH   18
 #define HEIGHT  10
 
+ // hainho
+
 char board[HEIGHT][WIDTH];
 int x, y; 
 int dx, dy;
